@@ -2,8 +2,8 @@
 <h3 align="center">A passionate SQA Engineer.</h3>
 
 
-
-- 🌱 I’m currently learning **Selenium Automation Used by TestNG Framework**
+- 🌱 I have already learned **Manual testing making test cases, and bug reports, Performance testing used by Jmeter, and API testing used by Postman. I have Concepts       about SDLC, STLC, and OOP. Knowledge of SQL Queries.**  
+- 🌱 I’m currently learning **Selenium Automation Used by TestNG Framework,Cypress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
