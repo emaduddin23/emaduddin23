@@ -9,7 +9,7 @@
 
 - 💬 About **I am a self-motivated professional passionate about quality control. I bring to this position a hands-on approach to the testing of software systems. My knowledge of software testing, Manual Testing, Executing and evaluating the Test, Creating the test case and report, bug reporting using Test Management Tools, Performance testing, API testing, and Agile methodology, and Web automation using the selenium Webdrive by TestNg framework. My ability to think of innovative solutions and present them to clients will allow me to bring much value to your organization. I am interested in joining this position because I have testing abilities.**
 
-- 📫 How to reach me **emaduddinaksir@gmai.com**
+- 📫 How to reach me **emaduddinaksir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
