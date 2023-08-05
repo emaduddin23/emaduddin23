@@ -3,12 +3,12 @@
 
 
 - 🌱 I have already learned **Manual testing making test cases, and bug reports, Performance testing used by Jmeter, and API testing used by Postman. I have Concepts       about SDLC, STLC, and OOP. Knowledge of SQL Queries.**  
-- 🌱 I’m currently learning **Selenium Automation Used by TestNG Framework and also Cypress**.
+- 🌱 I’m currently learning **Selenium Automation Used by TestNG Framework**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
 - 💬 About 
-**I am a self-motivated professional passionate about quality control. My knowledge of software testing, Manual Testing, Executing and evaluating the Test, Creating the test case and report, bug reporting using Test Management Tools, Performance testing, API testing, and Agile methodology, and Web automation using the selenium Webdrive by TestNg framework. My ability to think of innovative solutions and present them to clients will allow me to bring much value to your organization. I am interested in joining this position because I have testing abilities.**
+**I am a self-motivated professional passionate about quality control. My knowledge of software testing, Manual Testing, Executing and evaluating the Test, Creating the test case and report, bug reporting using Test Management Tools, Performance testing, API testing, and Agile methodology, and Web automation using the Selenium Webdrive by TestNg framework. My ability to think of innovative solutions and present them to clients will allow me to bring much value to your organization. I am interested in joining this position because I have testing abilities.**
 
 - 📫 How to reach me **emaduddinaksir@gmail.com**
 
