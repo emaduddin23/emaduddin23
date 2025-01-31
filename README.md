@@ -1,9 +1,8 @@
 <h1 align="center">Hi 😊, I'm Md Emad Uddin Aksir</h1>
 <h3 align="center">Interseted in SQA, Business analyst, Networking, and Data analyst.</h3>
 
-- 🌱 I have some skills in SQA, Data analyst, and networking. I have strong planning skills with the ability to manage multiple tasks efficiently while working independently and proactively. Skilled in understanding diverse business processes, analyzing customer needs, and proposing effective solutions. Capable of defining, aligning, and overseeing project scope, objectives, and deliverables to ensure successful outcomes.  I am skilled Manual testing making test cases, and bug reports, Performance testing used by Jmeter, and API testing used by Postman. I have Concepts about SDLC, STLC, and OOP. Knowledge of SQL Queries.** 
-- 🌱
-- 🌱
+- 🌱 **I have some skills in SQA, Data analyst, and networking. I have strong planning skills with the ability to manage multiple tasks efficiently while working independently and proactively. Skilled in understanding diverse business processes, analyzing customer needs, and proposing effective solutions. Capable of defining, aligning, and overseeing project scope, objectives, and deliverables to ensure successful outcomes. 
+- 🌱Tools — Jira, JMeter, Postman, Git, Github, Jira, Mysql Workbench, Vs code, etc.
 
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
