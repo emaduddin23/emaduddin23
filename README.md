@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
 - 💬 About 
-To secure a challenging position and environment in a reputable organization, I am looking for challenging jobs where I will have the scope to utilize my potential, adaptability, and skills to do something in life and from where I will be able to enhance my knowledge.
+**To secure a challenging position and environment in a reputable organization, I am looking for challenging jobs where I will have the scope to utilize my potential, adaptability, and skills to do something in life and from where I will be able to enhance my knowledge.**
 
 - 📫 How to reach me **emaduddinaksir@gmail.com**
 
