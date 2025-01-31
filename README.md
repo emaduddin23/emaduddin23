@@ -1,14 +1,14 @@
 <h1 align="center">Hi 😊, I'm Md Emad Uddin Aksir</h1>
-<h3 align="center">A passionate SQA Engineer.</h3>
+<h3 align="center">Interseted in SQA, Business analyst, Networking, and Data analyst.</h3>
 
-
-- 🌱 I have already learned **Manual testing making test cases, and bug reports, Performance testing used by Jmeter, and API testing used by Postman. I have Concepts       about SDLC, STLC, and OOP. Knowledge of SQL Queries.**  
-- 🌱 I’m currently learning **Selenium Automation Used by TestNG Framework**.
+- 🌱 I have some skills in SQA, Data analyst, and networking. I have strong planning skills with the ability to manage multiple tasks efficiently while working independently and proactively. Skilled in understanding diverse business processes, analyzing customer needs, and proposing effective solutions. Capable of defining, aligning, and overseeing project scope, objectives, and deliverables to ensure successful outcomes.  I am skilled Manual testing making test cases, and bug reports, Performance testing used by Jmeter, and API testing used by Postman. I have Concepts about SDLC, STLC, and OOP. Knowledge of SQL Queries.** 
+- 🌱
+- 🌱
 
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
 - 💬 About 
-**I am a self-motivated professional passionate about quality control. My knowledge of software testing, Manual Testing, Executing and evaluating the Test, Creating the test case and report, bug reporting using Test Management Tools, Performance testing, API testing, and Agile methodology, and Web automation using the Selenium Webdrive by TestNg framework. My ability to think of innovative solutions and present them to clients will allow me to bring much value to your organization. I am interested in joining this position because I have testing abilities.**
+*To secure a challenging position and environment in a reputable organization, I am looking for challenging jobs where I will have the scope to utilize my potential, adaptability, and skills to do something in life and from where I will be able to enhance my knowledge.**
 
 - 📫 How to reach me **emaduddinaksir@gmail.com**
 
