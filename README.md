@@ -2,7 +2,7 @@
 <h3 align="center">Interseted in SQA, Business analyst, Networking, and Data analyst.</h3>
 
 - 🌱 **I have some skills in SQA, Data analyst, and networking. I have strong planning skills with the ability to manage multiple tasks efficiently while working independently and proactively. Skilled in understanding diverse business processes, analyzing customer needs, and proposing effective solutions. Capable of defining, aligning, and overseeing project scope, objectives, and deliverables to ensure successful outcomes.**
-- 🌱Tools — Jira, JMeter, Postman, Git, Github, Jira, Mysql Workbench, Vs code, etc.
+- 🌱Tools — Jira, JMeter, Postman, Git, Github, Mysql Workbench, VS Code, etc.
 
 - 👨‍💻 All of my projects are available at [https://github.com/emaduddin23?tab=repositories](https://github.com/emaduddin23?tab=repositories)
 
