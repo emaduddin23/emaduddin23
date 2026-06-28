@@ -51,7 +51,9 @@ All of my projects are available 👉 [github.com/emaduddin23?tab=repositories](
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emaduddin23&show_icons=true&locale=en&theme=tokyonight)](https://github.com/emaduddin23)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=emaduddin23&theme=tokyonight&row=1&column=6)](https://github.com/emaduddin23)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emaduddin23&theme=onedark&row=1&column=6" alt="trophies" />
+</p>
 
 </div>
 
